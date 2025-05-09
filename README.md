@@ -38,3 +38,29 @@ Identifying requirements early helps in catching inconsistencies, missing functi
 Well-analyzed and documented requirements lead to systems that meet real user needs. When expectations are accurately translated into features, the end product is more likely to satisfy user expectations and business goals, resulting in higher quality software.
 
 In short, Requirement Analysis ensures that the right product is built in the right way, with minimal waste and maximum alignment with business objectives.
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several structured activities to ensure that the system's requirements are accurately captured, understood, and documented. Below are the five key activities:
+
+- **Requirement Gathering**
+    - Involves collecting high-level needs and expectations from stakeholders such as clients, users, and business analysts.
+    - Techniques include interviews, questionnaires, brainstorming sessions, and reviewing existing documentation.
+
+- **Requirement Elicitation**
+    - Focuses on extracting detailed information and clarifying ambiguous or conflicting requirements.
+    - This step often involves engaging deeply with stakeholders to uncover hidden needs or constraints.
+
+- **Requirement Documentation**
+    - All gathered and elicited requirements are documented in a clear, organized, and standardized format.
+    - Common documentation includes Software Requirement Specifications (SRS), user stories, and use cases.
+
+- **Requirement Analysis and Modeling**
+    - Analyzes the collected requirements to ensure feasibility, consistency, and completeness.
+    - Uses tools and techniques such as use case diagrams, data flow diagrams, and entity-relationship models to visually represent the system.
+
+- **Requirement Validation**
+    - Ensures that the documented requirements are correct, complete, and aligned with stakeholder expectations.
+    - Typically involves stakeholder reviews, walkthroughs, and formal inspections.
+
+These activities collectively ensure that the software system is designed with a solid understanding of what needs to be built and why.
