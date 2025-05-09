@@ -64,3 +64,37 @@ Requirement Analysis involves several structured activities to ensure that the s
     - Typically involves stakeholder reviews, walkthroughs, and formal inspections.
 
 These activities collectively ensure that the software system is designed with a solid understanding of what needs to be built and why.
+
+## Types of Requirements
+
+In software engineering, requirements are broadly categorized into two main types: **Functional Requirements** and **Non-functional Requirements**. Both are essential for building a complete, effective, and reliable system.
+
+### Functional Requirements
+
+Functional requirements define what the system should do. These are the core features and functionalities that the software must provide to meet user and business needs.
+
+**Definition:**  
+Functional requirements describe the behaviors, services, and functions the system must perform under specific conditions.
+
+**Examples for a Booking Management System:**
+- Users can create, view, update, or cancel bookings.
+- The system must allow admins to manage room availability and booking slots.
+- The system should send email confirmations upon successful booking.
+- Users must be able to search for available rooms by date, time, or type.
+- The system should allow user registration and login with role-based access.
+
+### Non-functional Requirements
+
+Non-functional requirements specify how the system performs its functions. These are quality attributes that influence user experience and system performance.
+
+**Definition:**  
+Non-functional requirements define constraints and standards such as performance, security, usability, and reliability.
+
+**Examples for a Booking Management System:**
+- The system should be able to handle 1000+ concurrent users without performance degradation.
+- Page load time should not exceed 2 seconds under normal load.
+- The application must comply with GDPR for data privacy.
+- The system should be available 99.9% of the time (high availability).
+- All user data must be encrypted both in transit and at rest.
+
+Understanding the distinction between these two types helps ensure that both user expectations and technical standards are met.
