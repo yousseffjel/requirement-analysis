@@ -98,3 +98,17 @@ Non-functional requirements define constraints and standards such as performance
 - All user data must be encrypted both in transit and at rest.
 
 Understanding the distinction between these two types helps ensure that both user expectations and technical standards are met.
+
+## Use Case Diagrams
+
+Use Case Diagrams are visual representations of the interactions between actors (users or systems) and the system itself. They help in understanding the functional requirements by illustrating the relationships and interactions for different system actions.
+
+### Benefits of Use Case Diagrams:
+- **Clarity:** They provide a clear and simple way to understand system functionality.
+- **Scope Definition:** Help define the boundaries of the system, showing what is included and what is not.
+- **Stakeholder Communication:** Facilitate communication among stakeholders by visually representing user actions and system responses.
+- **Documentation:** Serve as part of formal documentation, aiding future system design and development.
+
+Below is a use case diagram for the **Booking Management System**:
+
+![Booking Management Use Case Diagram](alx-booking-uc.png)
